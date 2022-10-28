@@ -1,0 +1,15 @@
+C:\Users\Nuaga\Desktop\task\task_34\obj\Debug\net6.0\task_34.csproj.AssemblyReference.cache
+C:\Users\Nuaga\Desktop\task\task_34\obj\Debug\net6.0\task_34.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nuaga\Desktop\task\task_34\obj\Debug\net6.0\task_34.AssemblyInfoInputs.cache
+C:\Users\Nuaga\Desktop\task\task_34\obj\Debug\net6.0\task_34.AssemblyInfo.cs
+C:\Users\Nuaga\Desktop\task\task_34\obj\Debug\net6.0\task_34.csproj.CoreCompileInputs.cache
+C:\Users\Nuaga\Desktop\task\task_34\bin\Debug\net6.0\task_34.exe
+C:\Users\Nuaga\Desktop\task\task_34\bin\Debug\net6.0\task_34.deps.json
+C:\Users\Nuaga\Desktop\task\task_34\bin\Debug\net6.0\task_34.runtimeconfig.json
+C:\Users\Nuaga\Desktop\task\task_34\bin\Debug\net6.0\task_34.dll
+C:\Users\Nuaga\Desktop\task\task_34\bin\Debug\net6.0\task_34.pdb
+C:\Users\Nuaga\Desktop\task\task_34\obj\Debug\net6.0\task_34.dll
+C:\Users\Nuaga\Desktop\task\task_34\obj\Debug\net6.0\refint\task_34.dll
+C:\Users\Nuaga\Desktop\task\task_34\obj\Debug\net6.0\task_34.pdb
+C:\Users\Nuaga\Desktop\task\task_34\obj\Debug\net6.0\task_34.genruntimeconfig.cache
+C:\Users\Nuaga\Desktop\task\task_34\obj\Debug\net6.0\ref\task_34.dll
